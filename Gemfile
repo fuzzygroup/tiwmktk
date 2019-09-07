@@ -9,8 +9,8 @@ gem 'jekyll-docs'
 #gem 'mechanize'
 #gem 'jekyll-gallery-generator'
 #gem 'jekyll-galleries'
-gem 'rmagick'
-gem 'exifr'
+# gem 'rmagick'
+# gem 'exifr'
 
 
 group :jekyll_plugins do

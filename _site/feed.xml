@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Things I Want My Kids to Know - A Father's Advice</title>
-    <description>Scott Johnson writing things for his kids.
+    <title>hings I Want My Kids to Know - A Father's Advice</title>
+    <description>Scott Johnson writing things for his kids.   They won't listen but I'm still going to try.
 </description>
-    <link>http://fuzzyblog.io/tiwmktk/blog/</link>
-    <atom:link href="http://fuzzyblog.io/tiwmktk/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Sep 2019 10:17:08 -0400</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2019 10:17:08 -0400</lastBuildDate>
+    <link>https://fuzzyblog.io//tiwmktk/</link>
+    <atom:link href="https://fuzzyblog.io//tiwmktk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 07 Sep 2019 10:20:38 -0400</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2019 10:20:38 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Take Two</title>
+        <description>
+</description>
+        <pubDate>Sat, 07 Sep 2019 10:19:00 -0400</pubDate>
+        <link>https://fuzzyblog.io//tiwmktk/2019/09/07/take-two.html</link>
+        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/2019/09/07/take-two.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>So You Got Your First Job</title>
         <description>&lt;p&gt;This is a test post.  And some other changes. And some more changes.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 Sep 2019 09:19:00 -0400</pubDate>
-        <link>http://fuzzyblog.io/tiwmktk/blog/work/2019/09/07/so-you-got-your-first-job.html</link>
-        <guid isPermaLink="true">http://fuzzyblog.io/tiwmktk/blog/work/2019/09/07/so-you-got-your-first-job.html</guid>
+        <link>https://fuzzyblog.io//tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</link>
+        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</guid>
         
         <category>work</category>
         
@@ -43,8 +54,8 @@
 
 </description>
         <pubDate>Sat, 07 Sep 2019 09:06:21 -0400</pubDate>
-        <link>http://fuzzyblog.io/tiwmktk/blog/jekyll/update/2019/09/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://fuzzyblog.io/tiwmktk/blog/jekyll/update/2019/09/07/welcome-to-jekyll.html</guid>
+        <link>https://fuzzyblog.io//tiwmktk/jekyll/update/2019/09/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/jekyll/update/2019/09/07/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
