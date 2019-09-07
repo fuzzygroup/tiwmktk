@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/2019/09/07/welcome-to-jekyll.html</loc>
+<loc>http://fuzzyblog.io/tiwmktk/blog/jekyll/update/2019/09/07/welcome-to-jekyll.html</loc>
 <lastmod>2019-09-07T09:06:21-04:00</lastmod>
 </url>
 <url>
-<loc>/work/2019/09/07/so-you-got-your-first-job.html</loc>
+<loc>http://fuzzyblog.io/tiwmktk/blog/work/2019/09/07/so-you-got-your-first-job.html</loc>
 <lastmod>2019-09-07T09:19:00-04:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>http://fuzzyblog.io/tiwmktk/blog/about/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://fuzzyblog.io/tiwmktk/blog/category.html</loc>
+</url>
+<url>
+<loc>http://fuzzyblog.io/tiwmktk/blog/</loc>
+</url>
+<url>
+<loc>http://fuzzyblog.io/tiwmktk/blog/tag.html</loc>
 </url>
 </urlset>

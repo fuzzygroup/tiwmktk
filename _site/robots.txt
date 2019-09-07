@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://fuzzyblog.io/tiwmktk/blog/sitemap.xml
