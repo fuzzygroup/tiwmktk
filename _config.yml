@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: hings I Want My Kids to Know - A Father's Advice
+title: Things I Want My Kids to Know - A Father's Advice
 email: fuzzygroup@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Scott Johnson writing things for his kids.   They won't listen but I'm still going to try.
