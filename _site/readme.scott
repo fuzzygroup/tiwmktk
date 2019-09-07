@@ -1,0 +1,32 @@
+ost-install message from html-pipeline:
+-------------------------------------------------
+Thank you for installing html-pipeline!
+You must bundle Filter gem dependencies.
+See html-pipeline README.md for more details.
+https://github.com/jch/html-pipeline#dependencies
+-------------------------------------------------
+Post-install message from nuggets:
+
+nuggets-1.6.0 [2018-07-12]:
+
+* Added <tt>JSON.*_{multi,canonical}</tt>.
+
+Post-install message from xdg:
+Development of this project has been transfered here: https://github.com/bkuhlmann/xdg. This will be the last version supported within the 2.2.x series. Be aware major breaking changes will be introduced in the upcoming 3.0.0 release (2019-06-01).
+Post-install message from tmuxinator:
+
+    __________________________________________________________
+    ..........................................................
+
+    Thank you for installing tmuxinator.
+
+    Make sure that you've set these variables in your ENV:
+
+      $EDITOR, $SHELL
+
+    You can run `tmuxinator doctor` to make sure everything is set.
+    Happy tmuxing with tmuxinator!
+
+    ..........................................................
+    __________________________________________________________
+  %                                                                      
