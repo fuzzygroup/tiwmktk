@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://fuzzyblog.io//tiwmktk/jekyll/update/2019/09/07/welcome-to-jekyll.html</loc>
-<lastmod>2019-09-07T09:06:21-04:00</lastmod>
-</url>
-<url>
-<loc>https://fuzzyblog.io//tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</loc>
+<loc>https://fuzzyblog.io/tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</loc>
 <lastmod>2019-09-07T09:19:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://fuzzyblog.io//tiwmktk/2019/09/07/take-two.html</loc>
-<lastmod>2019-09-07T10:19:00-04:00</lastmod>
+<loc>https://fuzzyblog.io/tiwmktk/about/</loc>
 </url>
 <url>
-<loc>https://fuzzyblog.io//tiwmktk/about/</loc>
+<loc>https://fuzzyblog.io/tiwmktk/category.html</loc>
 </url>
 <url>
-<loc>https://fuzzyblog.io//tiwmktk/category.html</loc>
+<loc>https://fuzzyblog.io/tiwmktk/</loc>
 </url>
 <url>
-<loc>https://fuzzyblog.io//tiwmktk/</loc>
-</url>
-<url>
-<loc>https://fuzzyblog.io//tiwmktk/tag.html</loc>
+<loc>https://fuzzyblog.io/tiwmktk/tag.html</loc>
 </url>
 </urlset>

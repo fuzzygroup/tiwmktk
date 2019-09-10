@@ -4,63 +4,49 @@
     <title>Things I Want My Kids to Know - A Father's Advice</title>
     <description>Scott Johnson writing things for his kids.   They won't listen but I'm still going to try.
 </description>
-    <link>https://fuzzyblog.io//tiwmktk/</link>
-    <atom:link href="https://fuzzyblog.io//tiwmktk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Sep 2019 10:21:19 -0400</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2019 10:21:19 -0400</lastBuildDate>
+    <link>https://fuzzyblog.io/tiwmktk/</link>
+    <atom:link href="https://fuzzyblog.io/tiwmktk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 10 Sep 2019 09:16:22 -0400</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2019 09:16:22 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Take Two</title>
-        <description>
-</description>
-        <pubDate>Sat, 07 Sep 2019 10:19:00 -0400</pubDate>
-        <link>https://fuzzyblog.io//tiwmktk/2019/09/07/take-two.html</link>
-        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/2019/09/07/take-two.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>So You Got Your First Job</title>
-        <description>&lt;p&gt;This is a test post.  And some other changes. And some more changes.&lt;/p&gt;
+        <title>Twelve Rules for Your First Job</title>
+        <description>&lt;p&gt;My eldest son just got his first job (ok his second job but this is the first one that counts). He is in a customer facing service technician role and this is the advice that I wish had been given to me when I got my first job:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Never swear at least where a customer can hear.&lt;/li&gt;
+  &lt;li&gt;Be respectful to your boss.&lt;/li&gt;
+  &lt;li&gt;Google your boss before you start; information is power.&lt;/li&gt;
+  &lt;li&gt;Be on time; be early if you can.&lt;/li&gt;
+  &lt;li&gt;Be prepared.&lt;/li&gt;
+  &lt;li&gt;Work hard.&lt;/li&gt;
+  &lt;li&gt;Be kind to customers; be even kinder to your co workers.&lt;/li&gt;
+  &lt;li&gt;Dress fitting the needs of the job.&lt;/li&gt;
+  &lt;li&gt;Be humble with your coworkers.&lt;/li&gt;
+  &lt;li&gt;Accept responsibility when you make a mistake.&lt;/li&gt;
+  &lt;li&gt;Pay attention and notice things.&lt;/li&gt;
+  &lt;li&gt;Nothing can ever be too clean&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A few clarifications:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;My first job was working for the family business and I remember, 39 years later, my Dad dressing me down when I swore in front of a customer (mind you I was maybe 12 and struggling to load a 70 plus pound bucket of drive way sealer into the trunk of their car without any help; no matter, I was &lt;strong&gt;absolutely in the wrong&lt;/strong&gt;).&lt;/li&gt;
+  &lt;li&gt;Customers come and go but your coworkers are there day in and day out; being kind to customers but rotten to your coworkers will hurt you.&lt;/li&gt;
+  &lt;li&gt;Dress is something that is highly tied to the job.  If you work in front of a customer, neat and clean is generally the rule but it varies widely – if you work in an adult bookstore, for example, cleavage is the rule not the exception.&lt;/li&gt;
+  &lt;li&gt;Paying attention in work (and in life) really, really matters.  If you make a conscious effort to notice things, you’ll be amazed at what you can learn.&lt;/li&gt;
+  &lt;li&gt;In terms of things never being too clean, if you really want to impress your boss, make a concerted effort to keep things clean.  Trust me – your boss will notice; they always notice this.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 07 Sep 2019 09:19:00 -0400</pubDate>
-        <link>https://fuzzyblog.io//tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</link>
-        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</guid>
+        <link>https://fuzzyblog.io/tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</link>
+        <guid isPermaLink="true">https://fuzzyblog.io/tiwmktk/work/2019/09/07/so-you-got-your-first-job.html</guid>
         
         <category>work</category>
         
         
         <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 07 Sep 2019 09:06:21 -0400</pubDate>
-        <link>https://fuzzyblog.io//tiwmktk/jekyll/update/2019/09/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://fuzzyblog.io//tiwmktk/jekyll/update/2019/09/07/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
