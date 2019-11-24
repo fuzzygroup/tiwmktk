@@ -5,10 +5,10 @@ date: 2019-09-27 06:40 -0400
 category: money
 tags: ["money"]
 ---
-I had to drive my son to work this morning and as he came down, I was in the kitchen making Strawberry Tequila.  As I watched him shuffle about, it occurred to me:
+I had to drive my son to work this morning and as he came down, I was in the kitchen making Strawberry Tequila for my wife.  As I watched him shuffle about, it occurred to me:
 
-* My son lives at home
-* For him all food -- from home -- is free
+* My son lives at home but he works away from the home
+* For him all food -- from home -- is **free**
 * I've never seen him pack a lunch
 
 "Alex -- what do you do for lunch?" was my question.  "Usually McDonald's or Taco Bell; about $10" was his answer.  
@@ -17,7 +17,7 @@ My immediate thought was "Oy Vey".  I said to him "Ok.  That's $50 / week.  What
 
 > What could you spend $2,500 on that you'd prefer to old McDonald's wrappers?
 
-And then I brought up a discussion of recurring costs.  Recurring costs are those costs which, well, occur over and over -- they recur.  Whenever I look at money, I tend to worry about recurring costs because they never go away.  I could tell my son was unconvinced so I then asked him:
+And then I brought up a discussion of recurring costs.  Recurring costs are those costs which, well, occur over and over -- they **recur**.  Whenever I look at money, I tend to worry about recurring costs because they never go away.  I could tell my son was unconvinced so I then asked him:
 
 "How many weeks have you worked?" 
 
@@ -26,3 +26,7 @@ And then I brought up a discussion of recurring costs.  Recurring costs are thos
 "Ok that's $200.  Is there anything you'd rather have done with that $200"
 
 I suspect that my son won't actually start making his lunch now but perhaps I've planted a seed for the future.
+
+## Postscript
+
+In the ensuing weeks, I watched my son start to make his own lunch.  And while I suspect it was more due to lack of cash than full agreement with his Dad, I'll take the win and feel at least moderately ok about it.
